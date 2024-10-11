@@ -4,12 +4,12 @@
     <!-- The package metadata. Fill in the properties marked as TODO below -->
     <!-- Follow the instructions on https://learn.microsoft.com/en-us/nuget/create-packages/package-authoring-best-practices -->
     <PackageId>CWXDEV.Templates</PackageId>
-    <PackageVersion>2.0</PackageVersion>
+    <PackageVersion>3.0</PackageVersion>
     <Title>CWXDEV Templates</Title>
     <Authors>CWXDEV</Authors>
-    <Description>Template for Winforms Blazor hybrid with resource embedding</Description>
-    <PackageTags>dotnet-new;templates;cwx;winforms-hybrid</PackageTags>
-    <PackageProjectUrl>https://github.com/CWXDEV/WinformsBlazorTemplate</PackageProjectUrl>
+    <Description>Templates for Winforms/wpf Blazor hybrid - with resource embedding templates</Description>
+    <PackageTags>dotnet-new;templates;cwx;winforms-hybrid;wpf-hybrid</PackageTags>
+    <PackageProjectUrl>https://github.com/CWXDEV/CWXBlazorTemplates</PackageProjectUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
 
     <!-- Keep package type as 'Template' to show the package as a template package on nuget.org and make your template available in dotnet new search.-->
@@ -32,8 +32,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Include="content\WPFBlazorEmbeddingTemplate\EmbeddedBlazorWebview.cs" />
-    <Compile Include="content\WPFBlazorEmbeddingTemplate\Main.cs" />
     <Content Include="content\**\*" Exclude="content\**\bin\**;content\**\obj\**" />
     <Compile Remove="**\*" />
   </ItemGroup>
