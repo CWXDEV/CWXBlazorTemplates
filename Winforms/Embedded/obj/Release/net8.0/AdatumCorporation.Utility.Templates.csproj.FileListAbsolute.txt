@@ -1,0 +1,12 @@
+D:\HomeRepos\WinformsBlazorTemplate\bin\Release\net8.0\AdatumCorporation.Utility.Templates.deps.json
+D:\HomeRepos\WinformsBlazorTemplate\bin\Release\net8.0\AdatumCorporation.Utility.Templates.dll
+D:\HomeRepos\WinformsBlazorTemplate\bin\Release\net8.0\AdatumCorporation.Utility.Templates.pdb
+D:\HomeRepos\WinformsBlazorTemplate\obj\Release\net8.0\AdatumCorporation.Utility.Templates.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeRepos\WinformsBlazorTemplate\obj\Release\net8.0\AdatumCorporation.Utility.Templates.AssemblyInfoInputs.cache
+D:\HomeRepos\WinformsBlazorTemplate\obj\Release\net8.0\AdatumCorporation.Utility.Templates.AssemblyInfo.cs
+D:\HomeRepos\WinformsBlazorTemplate\obj\Release\net8.0\AdatumCorporation.Utility.Templates.csproj.CoreCompileInputs.cache
+D:\HomeRepos\WinformsBlazorTemplate\obj\Release\net8.0\AdatumCorporation.Utility.Templates.sourcelink.json
+D:\HomeRepos\WinformsBlazorTemplate\obj\Release\net8.0\AdatumCorporation.Utility.Templates.dll
+D:\HomeRepos\WinformsBlazorTemplate\obj\Release\net8.0\refint\AdatumCorporation.Utility.Templates.dll
+D:\HomeRepos\WinformsBlazorTemplate\obj\Release\net8.0\AdatumCorporation.Utility.Templates.pdb
+D:\HomeRepos\WinformsBlazorTemplate\obj\Release\net8.0\ref\AdatumCorporation.Utility.Templates.dll

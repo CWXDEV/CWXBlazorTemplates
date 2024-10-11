@@ -1,0 +1,27 @@
+﻿{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "CWXDEV",
+  "classifications": [ "Common", "Wpf" ],
+  "identity": "WPFBlazor.EmbeddedTemplate",
+  "name": "WPF Blazor Hybrid with Resource Embedding",
+  "shortName": "WPFBlazorEmbeddingTemplate",
+  "sourceName":"WPFBlazorEmbeddingTemplate",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "symbols": {
+    "Framework": {
+      "type": "parameter",
+      "description": "The target framework for the project.",
+      "datatype": "choice",
+      "enableQuotelessLiterals": true,
+      "choices": [
+        {
+          "choice": "net8.0",
+          "description": "Target net8.0"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dWydDfp/cfY=",
+  "success": true,
+  "projectFilePath": "D:\\HomeRepos\\WinformsBlazorTemplate\\AdatumCorporation.Utility.Templates.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\craig\\.nuget\\packages\\microsoft.templateengine.tasks\\7.0.120\\microsoft.templateengine.tasks.7.0.120.nupkg.sha512"
+  ],
+  "logs": []
+}
