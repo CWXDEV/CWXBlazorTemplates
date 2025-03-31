@@ -2,7 +2,7 @@
 
     <PropertyGroup>
         <OutputType>WinExe</OutputType>
-        <TargetFramework>net8.0-windows</TargetFramework>
+        <TargetFramework>net9.0-windows</TargetFramework>
         <LangVersion>latestmajor</LangVersion>
         <Nullable>enable</Nullable>
         <UseWpf>true</UseWpf>
@@ -10,13 +10,13 @@
         <GenerateEmbeddedFilesManifest>true</GenerateEmbeddedFilesManifest>
         <!-- Required to allow Webview to load, make sure this is enabled in your publish settings too! -->
         <IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
-        <PackageVersion>3.0.0</PackageVersion>
+        <PackageVersion>3.1.0</PackageVersion>
     </PropertyGroup>
 
     <ItemGroup>
-        <PackageReference Include="Microsoft.AspNetCore.Components.WebView.WindowsForms" Version="8.0.71" />
-        <PackageReference Include="Microsoft.Extensions.FileProviders.Embedded" Version="8.0.7"/>
-        <PackageReference Include="MudBlazor" Version="7.3.0"/>
+        <PackageReference Include="Microsoft.AspNetCore.Components.WebView.WindowsForms" Version="9.0.50" />
+        <PackageReference Include="Microsoft.Extensions.FileProviders.Embedded" Version="9.0.3"/>
+        <PackageReference Include="MudBlazor" Version="8.5.0" />
     </ItemGroup>
 
     <ItemGroup>
