@@ -4,11 +4,11 @@
     <!-- The package metadata. Fill in the properties marked as TODO below -->
     <!-- Follow the instructions on https://learn.microsoft.com/en-us/nuget/create-packages/package-authoring-best-practices -->
     <PackageId>CWXDEV.Templates</PackageId>
-    <PackageVersion>3.1</PackageVersion>
+    <PackageVersion>3.2</PackageVersion>
     <Title>CWXDEV Templates</Title>
     <Authors>CWXDEV</Authors>
-    <Description>Templates for Winforms/wpf Blazor hybrid - with resource embedding templates</Description>
-    <PackageTags>dotnet-new;templates;cwx;winforms-hybrid;wpf-hybrid</PackageTags>
+    <Description>Templates for WPF Blazor hybrid - with resource embedding templates</Description>
+    <PackageTags>dotnet-new;templates;cwx;wpf-hybrid</PackageTags>
     <PackageProjectUrl>https://github.com/CWXDEV/CWXBlazorTemplates</PackageProjectUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
 

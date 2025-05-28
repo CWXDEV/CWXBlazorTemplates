@@ -11,13 +11,13 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <None Remove="Resources\*"/>
-        <EmbeddedResource Include="Resources\*"/>
+        <None Remove="Resources\**"/>
+        <EmbeddedResource Include="Resources\**"/>
     </ItemGroup>
 
     <ItemGroup>
-        <PackageReference Include="Microsoft.AspNetCore.Components.WebView.Wpf" Version="9.0.50" />
-        <PackageReference Include="MudBlazor" Version="8.5.0" />
+        <PackageReference Include="Microsoft.AspNetCore.Components.WebView.Wpf" Version="9.0.70" />
+        <PackageReference Include="MudBlazor" Version="8.6.0" />
     </ItemGroup>
 
 </Project>
